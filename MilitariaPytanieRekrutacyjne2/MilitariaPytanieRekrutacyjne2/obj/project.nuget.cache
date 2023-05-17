@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqahNuq1S2/TfguHS3NW/TWysWmUuVEum6yytCEJ/ARHRaTacrOOCDvHYknOLw/jcXAp6pI0qnH8cvCG6kTCUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaxiz\\source\\repos\\MilitariaPytanieRekrutacyjne2\\MilitariaPytanieRekrutacyjne2\\MilitariaPytanieRekrutacyjne2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaxiz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
